@@ -1,6 +1,6 @@
 # PoliMemeDecode Challenge - Team Backprop Sust
 
-**Final Standings:** * **Private Leaderboard:** 20th out of 151 teams
+**Final Standings:** **Private Leaderboard:** 20th out of 151 teams
 **Public Leaderboard:** 37th out of 151 teams
 
 This repository contains our solution for the **PoliMemeDecode** National Datathon, organized by the Department of CSE, CUET, as part of CUET CSE FEST 2025. 
